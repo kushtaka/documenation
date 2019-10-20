@@ -11,8 +11,8 @@ You'll be confronted with the following screen and forced to set the admin user'
 ## Steps
 
 * [ ] Enter an email address
-* [ ] Enter a &gt;= 12 character password
-* [ ] Confirm the password
+* [ ] Enter a password with at least `12` characters
+* [ ] Enter the password again to confirm
 * [ ] Click the `SAVE` button
 * [ ] At the login screen
 * [ ] Enter the email address used on the setup screen
