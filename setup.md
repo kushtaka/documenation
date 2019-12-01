@@ -2,7 +2,7 @@
 
 ## Outline
 
-When running `kushtakad` for the first time in `configurator` mode \(which is the default\) you will want to navigate to either:  
+When running `kushtakad` for the first time in `server` mode  you will want to navigate to either:  
   
 `http://localhost:8080`or `http://YOUR_EXTERNAL_IP:8080`
 

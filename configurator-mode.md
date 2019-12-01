@@ -1,8 +1,8 @@
-# Configurator Mode
+# Server
 
 ## Outline
 
-`Kushtakad` defaults to running as a server in the `configurator` mode. This mode has a dashboard, can send alerts, performs automatic https, facilitates the creation of tokens, facilitates the creation of the `sensor's` configuration along with many other administrative features.
+`Kushtakad` defaults to running as a server in the `server` mode. This mode has a dashboard, can send alerts, performs automatic https, facilitates the creation of tokens, facilitates the creation of the `sensor's` configuration along with many other administrative features.
 
 ## Steps
 
