@@ -2,7 +2,7 @@
 
 ## Goal
 
-Kushtaka's goal is to simplify the installation and coordiation of decpetion techniques so that Blue Teams can protect their networks and systems through actionable signals.
+Kushtaka's goal is to simplify the installation and coordination of deception techniques so that Blue Teams can protect their networks and systems through actionable signals.
 
 ## Technical
 
@@ -16,7 +16,9 @@ The `kushtakad` dashboard is used to configure your Kustaka environment, create 
 
 ## Sensor
 
-Sensors impersonate and emulate real life services on your network. Telnet, Ftp, Http with plans for many others. The idea is that attackers must will eventually pwn your user's machines.
+Sensors impersonate and emulate real life services on your network. Telnet, Ftp, Http with plans for many others. The idea is that as attackers pwn your user's machines, the network can actual act as a strategic defensive position.   
+  
+Because the attackers will have to move laterally and pivot to other machines/servers on the network, they must scan and probe other servers or services. It is here where the `kushtakad` executable running in `-sensor` mode can give the Blue Team a significant advantage. 
 
 ## Tokens
 
