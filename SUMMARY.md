@@ -2,14 +2,16 @@
 
 * [Overview](README.md)
 
-## Install
+## Installation
 
-* [Linux Snap](install/untitled.md)
+* [Windows](installation/windows.md)
+* [Linux](installation/linux/README.md)
+  * [Snap](installation/linux/linux-snap.md)
 
 ## Server
 
 * [Server](server/server-mode.md)
-* [Initial Setup](server/setup.md)
+* [Setup](server/setup.md)
 * [Automatic HTTPS](server/automatic-https-with-built-in-lets-encrypt.md)
 * [Alerting with SMTP](server/alerting-with-smtp.md)
 * [Teams](server/teams.md)
@@ -27,4 +29,6 @@
 * [Links](tokens/links.md)
 * [Pdf](tokens/pdf.md)
 * [Docx](tokens/docx.md)
+
+## Linux
 
