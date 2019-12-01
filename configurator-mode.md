@@ -8,7 +8,7 @@
 
 1. [ ] Download the executable binary for your platform
 2. [ ] Set the executable bit on the binary `$ chmod +x kushtakad`
-3. [ ] Run the binary `$ ./kushtakad`
+3. [ ] Run the binary passing the `-server` flag 
 
 ## Example
 
@@ -16,6 +16,6 @@
 $ wget https://github.com/kushtaka/kushtakad/releases/download/v0.1.0/kushtakad_0.1.0_linux_amd64.gz
 $ gunzip kushtakad_0.1.0_linux_amd64.gz
 $ chmod +x kushtakad_0.1.0_linux_amd64
-$ ./kushtakad_0.1.0_linux_amd64
+$ ./kushtakad_0.1.0_linux_amd64 -server
 ```
 
