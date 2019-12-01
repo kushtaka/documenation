@@ -4,7 +4,7 @@
 
 ## Install
 
-* [Untitled](install/untitled.md)
+* [Linux Snap](install/untitled.md)
 
 ## Server
 
