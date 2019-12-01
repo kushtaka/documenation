@@ -14,7 +14,7 @@ Therefore Kushtaka allows you to create many teams as teams are simply groups of
 * [ ] Click the `settings` button
 * [ ] Enter any `email` addresses for the team's members and click `SAVE`
 
-![enter a new team name and click create](.gitbook/assets/teams.png)
+![enter a new team name and click create](../.gitbook/assets/teams.png)
 
-![enter an email address and click submit](.gitbook/assets/team_rawr.png)
+![enter an email address and click submit](../.gitbook/assets/team_rawr.png)
 

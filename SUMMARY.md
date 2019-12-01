@@ -1,12 +1,15 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Server](server-mode.md)
-* [Initial Setup](setup.md)
-* [Automatic HTTPS](automatic-https-with-built-in-lets-encrypt.md)
-* [Alerting with SMTP](alerting-with-smtp.md)
-* [Teams](teams.md)
-* [Users](users.md)
+
+## Server
+
+* [Server](server/server-mode.md)
+* [Initial Setup](server/setup.md)
+* [Automatic HTTPS](server/automatic-https-with-built-in-lets-encrypt.md)
+* [Alerting with SMTP](server/alerting-with-smtp.md)
+* [Teams](server/teams.md)
+* [Users](server/users.md)
 
 ## Sensors <a id="sensors-1"></a>
 

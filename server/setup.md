@@ -21,9 +21,9 @@ You'll be confronted with the following screen and forced to set the admin user'
 
 ## Setup
 
-![enter a default admin email and password](.gitbook/assets/1.png)
+![enter a default admin email and password](../.gitbook/assets/1.png)
 
 ## Login
 
-![login with your newly created admin account](.gitbook/assets/2.png)
+![login with your newly created admin account](../.gitbook/assets/2.png)
 

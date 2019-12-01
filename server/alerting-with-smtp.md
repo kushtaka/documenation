@@ -13,5 +13,5 @@ For `kushtakad` to provide the value your organization requires you must configu
 * [ ] Click the `SEND TEST` button
 * [ ] If the test email was recieved, click `SAVE` 
 
-![](.gitbook/assets/smtp.png)
+![](../.gitbook/assets/smtp.png)
 

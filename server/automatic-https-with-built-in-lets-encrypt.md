@@ -20,5 +20,5 @@ As `kushtakad` has tried to simplify this process in order to remove as much fri
 8. [ ] 30 days before expiration the certificate will be automatically renewed
 9. [ ] This process will happen indefinitely
 
-![](.gitbook/assets/https.png)
+![](../.gitbook/assets/https.png)
 
