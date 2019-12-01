@@ -6,7 +6,7 @@
 
 * [Windows](installation/windows.md)
 * [Linux](installation/linux/README.md)
-  * [Snap](installation/linux/linux-snap.md)
+  * [Snap](installation/linux/snap.md)
 
 ## Server
 
