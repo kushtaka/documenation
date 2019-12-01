@@ -4,14 +4,13 @@
 
 ## Installation
 
+* [Linux](installation/linux.md)
 * [Windows](installation/windows.md)
-* [Linux](installation/linux/README.md)
-  * [Snap](installation/linux/snap.md)
 
 ## Server
 
 * [Server](server/server-mode.md)
-* [Setup](server/setup.md)
+* [Admin User](server/setup.md)
 * [Automatic HTTPS](server/automatic-https-with-built-in-lets-encrypt.md)
 * [Alerting with SMTP](server/alerting-with-smtp.md)
 * [Teams](server/teams.md)
