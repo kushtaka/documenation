@@ -9,7 +9,7 @@
 
 ## Server
 
-* [Server](server/server-mode.md)
+* [Setup](server/server-mode.md)
 * [Admin User](server/setup.md)
 * [Automatic HTTPS](server/automatic-https-with-built-in-lets-encrypt.md)
 * [Alerting with SMTP](server/alerting-with-smtp.md)
