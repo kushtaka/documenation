@@ -2,6 +2,10 @@
 
 * [Overview](README.md)
 
+## Install
+
+* [Untitled](install/untitled.md)
+
 ## Server
 
 * [Server](server/server-mode.md)
