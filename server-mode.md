@@ -2,7 +2,9 @@
 
 ## Outline
 
-`Kushtakad` defaults to running as a server in the `server` mode. This mode has a dashboard, can send alerts, performs automatic https, facilitates the creation of tokens, facilitates the creation of the `sensor's` configuration along with many other administrative features.
+Kushtaka requires an instance of `kushtakad` to be configured and running as a server in the `-server` mode.   
+  
+This mode has a dashboard, can send alerts, performs automatic https, facilitates the creation of tokens and facilitates the configuration of the `sensor's` along with many other administrative features.
 
 ## Steps
 
