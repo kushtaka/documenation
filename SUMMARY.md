@@ -4,7 +4,7 @@
 
 ## Installation
 
-* [Linux](installation/linux.md)
+* [Snap](installation/linux.md)
 * [Windows](installation/windows.md)
 
 ## Server

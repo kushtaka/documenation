@@ -1,6 +1,6 @@
-# Linux
+# Snap
 
-### Snap
+### Install
 
 The following commands will install `snap` and `snapd`.
 
