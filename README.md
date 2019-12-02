@@ -10,9 +10,9 @@ The executable is a single binary built and compiled using `Go`. This will allow
 
 The datastore is `bboltdb` which is a maintained fork of Ben B. Johnson's `boltdb` project. Boltdb has many many users of the years. The database can store terabytes of data and has transactions.
 
-## Configurator
+## Server
 
-The `kushtakad` dashboard is used to configure your Kustaka environment, create tokens and sensors, along with many other administrative tasks. When firstrunning the executable this is the default mode.
+The `kushtakad` dashboard is used to configure your Kustaka environment, create tokens and sensors, along with many other administrative tasks. 
 
 ## Sensor
 
