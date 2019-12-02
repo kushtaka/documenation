@@ -4,8 +4,8 @@
 
 ## Installation
 
-* [Linux](installation/linux-1/README.md)
-  * [Snap](installation/linux-1/linux.md)
+* [Linux](installation/linux/README.md)
+  * [Snap](installation/linux/linux.md)
 * [Windows](installation/windows.md)
 
 ## Server
