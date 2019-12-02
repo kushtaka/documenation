@@ -1,6 +1,6 @@
 # Linux
 
-## Linux Snap
+### Snap
 
 The following commands will install `snap` and `snapd`.
 
@@ -21,11 +21,29 @@ kushtakad.server  enabled  active   -
 $
 ```
 
+### Configure Sensor
+
 If you go to `http://localhost:8080` you will see the dashboard for the `kushtakad` server running.  
   
 Once you create `sensor` on the `kushtakad` dashboard, take the `apikey` and the `host` information and run the following command.
 
 ```text
 $ sudo kushtakad -apikey YOUR_API_KEY -host http://localhost:8080
+```
+
+### Disable
+
+You can disable either of the  services with the following commands.
+
+```text
+$ sudo snap stop --disable kushtakad.sensor
+$ sudo snap stop --disable kushtakad.server
+```
+
+### Enable
+
+```text
+$ sudo snap start --enable kushtakad.sensor
+$ sudo snap start --enable kushtakad.server
 ```
 
