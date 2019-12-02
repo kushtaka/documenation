@@ -21,5 +21,11 @@ kushtakad.server  enabled  active   -
 $
 ```
 
-If you go to `http://localhost:8080` you will see the dashboard for the `kushtakad` server running.
+If you go to `http://localhost:8080` you will see the dashboard for the `kushtakad` server running.  
+  
+Once you create `sensor` on the `kushtakad` dashboard, take the `apikey` and the `host` information and run the following command.
+
+```text
+$ sudo kushtakad -apikey YOUR_API_KEY -host http://localhost:8080
+```
 
