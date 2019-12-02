@@ -4,10 +4,8 @@
 
 ## Installation
 
-* [Linux](installation/linux/README.md)
-  * [Manual](installation/linux/manual.md)
-* [Windows](installation/windows/README.md)
-  * [Manual](installation/windows/manual.md)
+* [Linux](installation/linux.md)
+* [Windows](installation/windows.md)
 
 ## Server
 
