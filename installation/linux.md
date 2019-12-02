@@ -42,6 +42,8 @@ $ sudo snap stop --disable kushtakad.server
 
 ### Enable
 
+Similarly, you can start and enable the services with the following commands.
+
 ```text
 $ sudo snap start --enable kushtakad.sensor
 $ sudo snap start --enable kushtakad.server
