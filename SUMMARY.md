@@ -5,12 +5,12 @@
 ## Installation
 
 * [Linux](installation/linux/README.md)
+  * [Manual](installation/linux/server-mode.md)
   * [Snap](installation/linux/linux.md)
 * [Windows](installation/windows.md)
 
 ## Server
 
-* [Setup](server/server-mode.md)
 * [Admin User](server/setup.md)
 * [Automatic HTTPS](server/automatic-https-with-built-in-lets-encrypt.md)
 * [Alerting with SMTP](server/alerting-with-smtp.md)
