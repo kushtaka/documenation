@@ -6,7 +6,7 @@
 
 * [Linux](installation/linux/README.md)
   * [Manual](installation/linux/server-mode.md)
-  * [Snap](installation/linux/linux.md)
+  * [Snap](installation/linux/snap.md)
 * [Windows](installation/windows.md)
 
 ## Server
@@ -29,6 +29,4 @@
 * [Links](tokens/links.md)
 * [Pdf](tokens/pdf.md)
 * [Docx](tokens/docx.md)
-
-## Linux
 
