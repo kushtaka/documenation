@@ -7,19 +7,26 @@ The Kushtaka executable also acts as a `sensor` when you pass it the `-sensor` f
 ## Steps
 
 * [ ] Create a `sensor` on the the `server's` dashboard
-* [ ] Copy the `sensor's` apikey to your clipboard
-* [ ] creRun the following command and then start `kushtakad` by passing the `-sensor` flag 
+* [ ] Copy the `sensor's` apikey to your clipboard and **configure** the sensor
+* [ ] Run `kushtakad` by passing the `-sensor` flag 
 
-#### Screenshots
+#### Create Sensor
 
-![](../.gitbook/assets/sensor.png)
+![After you enter the information, you should see your sensor saved](../.gitbook/assets/sensor2.png)
 
-![](../.gitbook/assets/sensor2.png)
+#### Copy Api Key
 
-#### Commands
+![Copy the Api Key on the bottom left](../.gitbook/assets/sensor3.png)
+
+#### Configure Sensor
 
 ```text
 $ kushtakad -apikey YOUR_API_KEY -host URI_OF_SERVER
+```
+
+#### Run Sensor
+
+```text
 $ kushtakad -sensor
 ```
 
