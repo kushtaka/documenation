@@ -15,11 +15,9 @@ $ kushtakad -apikey YOUR_API_KEY -host URI_OF_SERVER
 $ kushtakad -sensor
 ```
 
-
-
 ## Examples
 
-Examples of the **data/sensor.json** file the gets created.
+Examples of the **data/sensor.json** file that is created.
 
 ### Practical 
 
