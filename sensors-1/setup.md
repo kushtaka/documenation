@@ -2,16 +2,24 @@
 
 ## Overview
 
-The Kushtaka executable also acts as a `sensor` when you pass it the `-sensor` flag. Configurations are downloaded by the sensor from the Configurator as long as a `sensor.json` file is in the same directory as the `kushtakad` executable that you expect to run as a sensor by passing the `-sensor` flag.
+The Kushtaka executable also acts as a `sensor` when you pass it the `-sensor` flag. Configurations are downloaded by the sensor from the server as long as the `sensor` has been configured with the `-apikey` and the `-host` values.
 
 ## Steps
 
-* [ ] Create a `sensor.json` file inside the directory where the `kushtakad` executable is located
-* [ ] Place a json object in the file \(see examples\) that contains the following
-* [ ] The `key` of the sensor that you'll find on the Configurator Dashboard
-* [ ] Start `kushtakad` by passing the `-sensor` flag
+* [ ] Create a `sensor` on the the `server's` dashboard
+* [ ] Copy the `sensor's` apikey to your clipboard
+* [ ] Run the following command and then start `kushtakad` by passing the `-sensor` flag
+
+```text
+$ kushtakad -apikey YOUR_API_KEY -host URI_OF_SERVER
+$ kushtakad -sensor
+```
+
+
 
 ## Examples
+
+Examples of the **data/sensor.json** file the gets created.
 
 ### Practical 
 
