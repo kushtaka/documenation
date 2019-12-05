@@ -49,3 +49,9 @@ $ sudo snap start --enable kushtakad.sensor
 $ sudo snap start --enable kushtakad.server
 ```
 
+### Upgrade
+
+```text
+$ sudo snap refresh kushtakad --devmode
+```
+
