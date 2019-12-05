@@ -16,7 +16,7 @@ The Kushtaka executable also acts as a `sensor` when you pass it the `-sensor` f
 
 #### Copy Api Key
 
-![Copy the Api Key on the bottom left](../.gitbook/assets/sensor3.png)
+![](../.gitbook/assets/sensor3.png)
 
 #### Configure Sensor
 
