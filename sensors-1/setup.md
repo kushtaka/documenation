@@ -8,7 +8,15 @@ The Kushtaka executable also acts as a `sensor` when you pass it the `-sensor` f
 
 * [ ] Create a `sensor` on the the `server's` dashboard
 * [ ] Copy the `sensor's` apikey to your clipboard
-* [ ] Run the following command and then start `kushtakad` by passing the `-sensor` flag
+* [ ] creRun the following command and then start `kushtakad` by passing the `-sensor` flag 
+
+#### Screenshots
+
+![](../.gitbook/assets/sensor.png)
+
+![](../.gitbook/assets/sensor2.png)
+
+#### Commands
 
 ```text
 $ kushtakad -apikey YOUR_API_KEY -host URI_OF_SERVER
